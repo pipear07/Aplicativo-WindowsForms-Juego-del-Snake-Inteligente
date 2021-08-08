@@ -1,0 +1,38 @@
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.exe
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.pdb
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csprojResolveAssemblyReference.cache
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Form1.resources
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Properties.Resources.resources
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csproj.GenerateResource.Cache
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.exe
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.pdb
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.exe
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.pdb
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csprojResolveAssemblyReference.cache
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Form1.resources
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Properties.Resources.resources
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csproj.GenerateResource.Cache
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.exe
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.pdb
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\OneDrive\Documents\COPIA DE SEGURIDAD PROYECTO\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.exe
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.pdb
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.exe
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.pdb
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csprojResolveAssemblyReference.cache
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Form1.resources
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Properties.Resources.resources
+C:\Users\pipea\Music\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csproj.GenerateResource.Cache
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.exe
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.pdb
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.exe
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\Proyecto_de_Progra_ll.pdb
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\ObjetodeNegocios.dll
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\bin\Debug\ObjetodeNegocios.pdb
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csprojResolveAssemblyReference.cache
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Form1.resources
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.Properties.Resources.resources
+F:\PROGRAMACACION - QUEMAR EN CD\PROYECTO DE PROGRAMACION - Andres Arevalo - Felipe Soler - Santiago Riaño\Proyecto_de_Progra_ll\Proyecto_de_Progra_ll\obj\Debug\Proyecto_de_Progra_ll.csproj.GenerateResource.Cache
